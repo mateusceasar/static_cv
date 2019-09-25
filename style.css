@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.5;
   background: #dcedc8;
   color: #323232;
@@ -73,7 +73,7 @@ img.avatar {
 }
 
 .my-title {
-  font-family: 'Forum', cursive;
+  font-family: 'Nunito', sans-serif;
   font-size: 24px;
   font-weight: 300;
   color: #ff3d00;
