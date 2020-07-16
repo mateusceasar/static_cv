@@ -89,6 +89,7 @@ img.avatar {
   display: flex;
   align-items: center;
   flex: 1;
+  color: #09fdd8;
 }
 
 .link-item svg {
