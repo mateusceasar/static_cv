@@ -4,4 +4,6 @@
 
 *Este documento foi construído utilizando HTML e CSS com a finalidade de compartilhar informações pessoais com empresas e pessoas de interesse particular em obter compromisso de parcerias.*
 
-*Autor: Mateus Loubach*
+[![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
+
+**Made by [Mateus Loubach](https://github.com/mateusloubach)**
